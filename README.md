@@ -44,15 +44,15 @@
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mosherif0&show_icons=true&theme=radical&count_private=true" height="180"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mosherif0&show_icons=true&theme=radical&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mosherif0&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Mosherif0&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mosherif0&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mosherif0&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -63,16 +63,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mosherif0&theme=radical&no-bg=true&row=1&column=6" />
 </p>
 
----
-
-## 🚀 Featured AI Projects
-
-- 🧠 Skin Cancer Detection using Deep Learning (ResNet50 + HAM10000)
-- ❤️ Heart Disease Prediction using Retina & Smartwatch Data
-- 🌍 Carbon Footprint Estimation using Machine Learning
-- 🔫 Weapon Detection System using Computer Vision
-
----
 
 <h3 align="center">✨ Let's build something impactful with AI ✨</h3>
 
