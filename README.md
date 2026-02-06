@@ -14,10 +14,9 @@
   <a href="https://www.facebook.com/mohammed.shrief.562/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="mailto:moshreif0100@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="28" />
-</a>
+  <img src="https://img.shields.io/static/v1?message=Email:+moshreif0100@gmail.com&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge" height="28" />
 </p>
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mosherif0.Mosherif0" />
