@@ -41,31 +41,18 @@
 
 ---
 
-## 🔥 GitHub Stats (Stable & Professional)
-
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mosherif0&show_icons=true&theme=radical&count_private=true&hide=prs,issues" alt="GitHub Stats" height="180"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mosherif0&show_icons=true&theme=radical&count_private=true&hide=prs,issues" alt="GitHub Stats" height="150"/>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=Mosherif0&theme=radical&border_radius=10" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
-  <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=Mosherif0&theme=radical&border_radius=10" alt="GitHub Streak" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mosherif0&layout=compact&theme=radical&hide=html,css&count_private=true" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies (Stable & Clean)
-
-<p align="center">
+  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Mosherif0&theme=radical&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
-
 
 <h3 align="center">✨ Let's build something impactful with AI ✨</h3>
 
