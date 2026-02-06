@@ -31,27 +31,10 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,linux,git,github,docker,aws,matlab,c,cpp,java,js,html,css,react,nodejs,mongodb,mysql,vscode&perline=12" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mosherif0&show_icons=true&theme=radical&count_private=true&hide=prs,issues" alt="GitHub Stats" height="150"/>
-
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Mosherif0&theme=radical&border_radius=10" alt="GitHub Streak" height="150"/>
-</p>
-
-<p align="center">
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Mosherif0&theme=radical&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://streak-stats.demolab.com?user=Mosherif0&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <h3 align="center">✨ Let's build something impactful with AI ✨</h3>
