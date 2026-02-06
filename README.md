@@ -31,6 +31,16 @@
 
 ---
 
+## 🛠 Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,linux,git,github,docker,aws,matlab,c,cpp,java,js,html,css,react,nodejs,mongodb,mysql,vscode&perline=12" />
+  </a>
+</p>
+
+---
+
 ## 🔥 GitHub Streak
 
 <p align="center">
