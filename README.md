@@ -43,22 +43,25 @@
 
 ## 🔥 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mosherif0&show_icons=true&theme=radical&count_private=true&border_radius=10" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosherif0&theme=radical&border_radius=10" height="180"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mosherif0&show_icons=true&theme=radical&count_private=true" height="180"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosherif0&layout=compact&theme=radical&border_radius=10" height="160"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mosherif0&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mosherif0&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mosherif0&theme=radical&no-bg=true&row=1&column=7" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mosherif0&theme=radical&no-bg=true&row=1&column=6" />
+</p>
 
 ---
 
