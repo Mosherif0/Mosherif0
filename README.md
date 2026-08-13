@@ -50,7 +50,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosherif0&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Mosherif0&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <h3 align="center">
