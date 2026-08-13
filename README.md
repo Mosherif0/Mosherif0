@@ -50,7 +50,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mosherif0&theme=radical&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mosherif0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <h3 align="center">
