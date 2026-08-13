@@ -45,6 +45,8 @@
 
 ---
 
+---
+
 ## 📊 GitHub Activity
 
 <p align="center">
@@ -54,6 +56,4 @@
 <h3 align="center">
   Build → Learn → Improve → Repeat.
 </h3>
-
-<h3 align="center">✨ Let's build something impactful with AI ✨</h3>
 
