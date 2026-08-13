@@ -43,11 +43,17 @@
 
 ---
 
-## 🔥 GitHub Streak
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mosherif0&theme=radical&border_radius=10" alt="GitHub Streak"/>
 </p>
+
+<h3 align="center">
+  Build → Learn → Improve → Repeat.
+</h3>
 
 <h3 align="center">✨ Let's build something impactful with AI ✨</h3>
 
