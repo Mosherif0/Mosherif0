@@ -1,5 +1,7 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00E5FF&height=200&section=header&text=Mohamed%20Sherif&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+%7C+Computer+Vision;Turning+Business+Problems+Into+Intelligent+Solutions;Data+%7C+AI+%7C+Engineering+%7C+Real-World+Impact;Building+AI+Systems+That+Solve+Real+Problems" alt="Typing SVG"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,55:111827,100:7C3AED&height=210&section=header&text=Mohamed%20Sherif&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer&descAlignY=60&descSize=19&descColor=38BDF8" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+%7C+Computer+Vision;Building+Data-Driven+%26+Business-Oriented+AI+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+Generative+AI;From+Data+%26+Business+Problems+to+Deployable+AI+Systems" alt="AI Engineer Typing Animation"/>
 <br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mosherif0&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/> </div>
 
 <img src="https://komarev.com/ghpvc/?username=Mosherif0&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile Views"/> </div>
 
