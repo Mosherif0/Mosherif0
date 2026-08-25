@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed Sherif</h1>
+<div align="center">
+👋 Hi, I'm Mohamed Sherif
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Problem+Solver;Building+Things+That+People+Love+%F0%9F%9A%80" alt="Typing SVG" /> <br/> <img src="https://komarev.com/ghpvc/?username=Mosherif0&style=for-the-badge&color=00F7FF" alt="Profile Views"/> </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mosherif0" target="_blank">
