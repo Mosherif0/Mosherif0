@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,55:111827,100:7C3AED&height=210&section=header&text=Mohamed%20Sherif&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer&descAlignY=60&descSize=19&descColor=38BDF8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,55:111827,100:7C3AED&height=210&section=header&text=Mohamed%20Sherif&fontSize=52&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Engineer&descAlignY=60&descSize=19&descColor=2563EB" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+%7C+Computer+Vision;Business-Oriented+%7C+Data-Driven+AI+Solutions;Deep+Learning+%7C+NLP+%7C+Generative+AI;Building+Deployable+AI+Systems" alt="AI Engineer Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+%7C+Computer+Vision;Business-Oriented+%7C+Data-Driven+AI+Solutions;Deep+Learning+%7C+NLP+%7C+Generative+AI;Building+Deployable+AI+Systems" alt="AI Engineer Typing Animation"/>
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Mosherif0&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Mosherif0?style=for-the-badge&color=38BDF8&label=FOLLOWERS" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Mosherif0?style=for-the-badge&color=2563EB&label=FOLLOWERS" alt="GitHub Followers"/>
 
 <br><br>
 
@@ -31,6 +31,7 @@
 </a>
 
 </div>
+
 
 
 ---
