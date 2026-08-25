@@ -1,4 +1,7 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00E5FF&height=180&section=header&text=Mohamed%20Sherif&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20%26%20Intelligent%20Systems&descAlignY=58&descSize=18&descColor=67E8F9" width="100%"/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+%7C+Computer+Vision;Turning+Business+Problems+into+AI-Powered+Solutions;From+Raw+Data+to+Insights%2C+Models+%26+Real-World+Impact;Building+Intelligent+Systems+That+Solve+Real+Problems" alt="Typing SVG"/> <br/> <img src="https://komarev.com/ghpvc/?username=Mosherif0&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" /> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00E5FF&height=200&section=header&text=Mohamed%20Sherif&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/> <br> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+%7C+Computer+Vision;Turning+Business+Problems+Into+Intelligent+Solutions;Data+%7C+AI+%7C+Engineering+%7C+Real-World+Impact;Building+AI+Systems+That+Solve+Real+Problems" alt="Typing SVG"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mosherif0&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" alt="Profile Views"/> </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mosherif0" target="_blank">
