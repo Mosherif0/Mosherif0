@@ -16,17 +16,16 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-
 <a href="https://github.com/Mosherif0">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-
 <a href="mailto:moshreif0100@gmail.com">
 <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
+
 
 
 <table> <tr> <td align="center"> <img src="https://komarev.com/ghpvc/?username=Mosherif0&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views"/> </td> <td width="20"></td> <td align="center"> <img src="https://img.shields.io/github/followers/Mosherif0?style=for-the-badge&color=38BDF8&label=FOLLOWERS" alt="GitHub Followers"/> </td> </tr> </table> <br> <table> <tr> <td> <a href="https://www.linkedin.com/in/mosherif0/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </td> <td> <a href="https://github.com/Mosherif0"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </td> <td> <a href="mailto:moshreif0100@gmail.com"> <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </td> </tr> </table> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:7C3AED&height=2&width=700" width="60%"/> </div>
